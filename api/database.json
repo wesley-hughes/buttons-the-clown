@@ -1,0 +1,32 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "1",
+      "clownId": "2",
+      "date_created": 1675092230528,
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "ParentName": "Wesley Hughes",
+      "ChildName": "Poppy Filler",
+      "NumberOfAttendees": "3",
+      "Address": "526 Belair Way",
+      "ServiceDate": "2023-10-20",
+      "HoursRequested": "3",
+      "id": 1,
+      "completed": true
+    }
+  ]
+}
